@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Miyamoto Musashi",
+    "alias": "Kensai of the Two Heavens",
+    "birthYear": 1584,
+    "nationality": "Japanese",
+    "occupation": "Samurai, Swordsman, Philosopher",
+    "achievements": [
+      "Authored 'The Book of Five Rings'",
+      "Famed for his duels, including against Sasaki Kojiro",
+      "Founder of the Niten Ichi-ryū school of swordsmanship"
+    ],
+    "quote": "In battle, if you make your opponent flinch, you have already won.",
+    "knownFor": [
+      {
+        "name": "Duel at Ganryū Island",
+        "year": 1612,
+        "opponent": "Sasaki Kojiro",
+        "result": "Victory for Musashi"
+      }
+    ]
+  },
+  {
+    "name": "William Marshall",
+    "title": "The Greatest Knight",
+    "birthYear": 1146,
+    "nationality": "English",
+    "occupation": "Knight, Statesman",
+    "achievements": [
+      "Served under five English kings",
+      "Famed for his martial prowess and chivalry",
+      "Regent of England during the minority of Henry III"
+    ],
+    "quote": "The road to success is not easy to navigate, but with hard work, drive, and passion, it's possible to achieve the American dream.",
+    "knownFor": [
+      {
+        "name": "Battle of Lincoln",
+        "year": 1217,
+        "opponent": "Robert Fitzwalter",
+        "result": "Victory for Marshall"
+      }
+    ]
+  }
+]
